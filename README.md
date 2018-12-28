@@ -1,2 +1,2 @@
-# zoma
+# Zoma
 Website for Zoma Health
